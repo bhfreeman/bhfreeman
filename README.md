@@ -18,18 +18,6 @@ To contact me about a job or anything else, email me at [brett.h.freeman@gmail.c
 
 
 
-
-
-
-
-
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasrokosz&theme=default&layout=compact&langs_count=6"></img>
-### Skills:
-- 👨‍💻 JavaScript, TypeScript, Python
-- ⚙️ React, Gatsby, Svelte
-- 👁️ Tailwind CSS 2.0, Bootstrap 5, SASS
-- 💽 MySQL, MongoDB, GraphQL -->
-
 <!--
 **bhfreeman/bhfreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
