@@ -3,10 +3,6 @@
 </pre>-->
 ### Hi, I'm Brett! <!--👋-->
 
-<!--I'm a software developer currently seeking work-->
-
-I'm a Full Stack Web Developer currently seeking work!
-
 
 To contact me about a job or anything else, email me at [brett.h.freeman@gmail.com](mailto:brett.h.freeman@gmail.com).
 
